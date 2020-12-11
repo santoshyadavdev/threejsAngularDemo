@@ -127,5 +127,8 @@
       }
     }
   },
-  "defaultProject": "threejsdemo"
+  "defaultProject": "threejsdemo",
+  "cli": {
+    "analytics": "2e17463a-c7e1-4da4-896b-cd0162f3c32e"
+  }
 }
